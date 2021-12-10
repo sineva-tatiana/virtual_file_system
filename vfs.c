@@ -91,7 +91,7 @@ int main(int argc, char* argv[])
 	printf("%s", "* print /folder/folder\n");
 	printf("%s", "* mkdir /folder/folder\n");
 	printf("%s", "* rm	/folder/folder/item\n");
-	printf("%s", "* mkfil /folder/file\n");
+	printf("%s", "* mkfil /folder/file size\n");
 	printf("%s", "* exit\n");
 	printf("%s", "Cannot create an object in a non-existent folder!\n");
 	int n;
